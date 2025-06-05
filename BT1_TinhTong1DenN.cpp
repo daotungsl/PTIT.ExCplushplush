@@ -1,8 +1,8 @@
-//#include "BT1_Total1ToN.h"
+
 #include <iostream>
 using namespace std;
 
-void BT1_Total1ToN() {
+int main() {
     int T;
     cout << "Nhap so test: ";
     cin >> T;
@@ -15,4 +15,5 @@ void BT1_Total1ToN() {
         }
         cout << "Tong tu 1 den " << N << " la: " << sum << endl;
     }
+    return 0;
 }
