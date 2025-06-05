@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="BT1_Total1ToN.cpp" />
     <ClCompile Include="BT2_UperAndLowerChar.cpp" />
+    <ClCompile Include="BT3_TotalFactorial.cpp" />
     <ClCompile Include="ConsoleBT.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BT1_Total1ToN.h" />
     <ClInclude Include="BT2_UperAndLowerChar.h" />
+    <ClInclude Include="BT3_TotalFactorial.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>

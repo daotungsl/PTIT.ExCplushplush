@@ -1,4 +1,4 @@
-﻿#include "BT2_UperAndLowerChar.h"
+﻿//#include "BT2_UperAndLowerChar.h"
 #include <iostream>
 
 using namespace std;
