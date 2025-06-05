@@ -13,13 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Excersite">
+      <UniqueIdentifier>{e207c47d-5905-4e14-b167-9879b8a23bca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleBT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="BT1_Total1ToN.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Excersite</Filter>
+    </ClCompile>
+    <ClCompile Include="BT2_UperAndLowerChar.cpp">
+      <Filter>Source Files\Excersite</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -27,6 +33,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="BT1_Total1ToN.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BT2_UperAndLowerChar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -2,6 +2,7 @@
 //
 #include <iostream>
 #include "BT1_Total1ToN.h"
+#include "BT2_UperAndLowerChar.h"
 using namespace std;
 
 
@@ -16,7 +17,7 @@ int main()
         BT1_Total1ToN();  // Gọi bài tập 1
         break;
     case 2:
-        //runBT2();  // Gọi bài tập 2
+        BT2_UperAndLowerChar();  // Gọi bài tập 2
         break;
     default:
         cout << "Lua chon khong hop le.\n";
